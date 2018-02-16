@@ -11,8 +11,6 @@ https://github.com/shts/StoriesProgressView
                         
 預覽
 --------
-![image](https://i.imgur.com/j7eyaxn.jpg)                                      
+![image](https://i.imgur.com/JjR2okO.png)                                      
 
-![image](https://i.imgur.com/mjIHstI.png)                                      
-
-![image](https://i.imgur.com/lQHjNGC.png)                                      
+![image](https://i.imgur.com/wLLFMmf.png)                                      
